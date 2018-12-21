@@ -1,6 +1,6 @@
 # BGS TypeScript Style Guide
 
-*A mostly reasonable approach to TypeScript based off of [Excel Micro TypeScript Style Guide](https://github.com/excelmicro/typescript), which was based off of [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)*
+*An approach to TypeScript based off of [Excel Micro TypeScript Style Guide](https://github.com/excelmicro/typescript), which was based off of [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)*
 
 ## Table of Contents
 
